@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.solid.principle.DepedencyInjectionprinciple&apos; to &apos;DepedencyInjectionPrinciple&apos;&#x0D;&#x0A;- Original project: &apos;SolidPrincipleOfDesignPattern&apos;&#x0D;&#x0A;- Original element: &apos;com.solid.principle.DepedencyInjectionprinciple&apos;&#x0D;&#x0A;- Renamed element: &apos;com.solid.principle.DepedencyInjectionPrinciple&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DepedencyInjectionprinciple&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.solid.principle{DepedencyInjectionprinciple.java[DepedencyInjectionprinciple" matchStrategy="1" name="DepedencyInjectionPrinciple" qualified="false" references="true" similarDeclarations="false" stamp="1577294466027" textual="false" version="1.0"/>
+</session>

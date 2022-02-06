@@ -1,0 +1,14 @@
+Solid Principle of design pattern
+==================================
+1) S — Single responsibility principle  - SRP
+2) O — Open/closed principle            - OCP
+3) L — Liskov substitution principle    - LSP
+4) I — Interface segregation principle  - ISP
+5) D - Dependency inversion principle   - DIP
+
+1) S — Single responsibility principle
+  -------------------------------------
+  In programming, the Single Responsibility Principle states that every module or 
+  class should have responsibility over a single part of the functionality provided by the software.
+  
+  

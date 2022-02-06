@@ -1,0 +1,35 @@
+package com.strategy;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+
+//https://refactoring.guru/design-patterns/strategy/java/example#:~:text=Strategy%20is%20a%20behavioral%20design,delegates%20it%20executing%20the%20behavior.
+public class PayByCreditCard implements PayStrategy {
+
+	private final BufferedReader READER = new BufferedReader(new InputStreamReader(System.in));
+	private CreditCard card;
+
+	/**
+	 * Collect credit card data.
+	 */
+	@Override
+	public void collectPaymentDetails() {
+		
+		try {
+			
+			System.out.print("Enter the card number: ");
+
+			
+		}catch (Exception e) {
+			// TODO: handle exception
+		}
+		
+	}
+
+	@Override
+	public boolean pay(int paymentAmount) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.structral.RealImage"/>
+<fullyQualifiedTypeName name="com.structral.ProxyImage"/>
+<fullyQualifiedTypeName name="com.structral.ISP"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="com.structral.InternetProxy"/>
+<fullyQualifiedTypeName name="com.structral.Vodafone"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="com.structral.NetworkSetting"/>
+<fullyQualifiedTypeName name="com.structral.Browser"/>
+<fullyQualifiedTypeName name="com.behavioral.Employee"/>
+<fullyQualifiedTypeName name="com.behavioral.TeamLeader"/>
+<fullyQualifiedTypeName name="com.behavioral.TeamLead"/>
+<fullyQualifiedTypeName name="com.behavioral.ProjectLead"/>
+<fullyQualifiedTypeName name="com.behavioral.HR"/>
+<fullyQualifiedTypeName name="com.structral.state.toturialpoint.State"/>
+<fullyQualifiedTypeName name="com.structral.state.toturialpoint.Context"/>
+<fullyQualifiedTypeName name="com.structral.state.toturialpoint.StartState"/>
+<fullyQualifiedTypeName name="com.structral.state.toturialpoint.StopState"/>
+<fullyQualifiedTypeName name="com.state.java9.com.KidState"/>
+<fullyQualifiedTypeName name="com.state.java9.com.FirstYearKid"/>
+<fullyQualifiedTypeName name="com.state.java9.com.Kid"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.observer.telusko.Channel"/>
+<fullyQualifiedTypeName name="com.observer.telusko.Subscriber"/>
+<fullyQualifiedTypeName name="com.synchronous.callback.B"/>
+<fullyQualifiedTypeName name="com.synchronous.callback.OnGeekEventListener"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.lang.Runnable"/>
+<fullyQualifiedTypeName name="com.bridge.ColorImplementator"/>
+<fullyQualifiedTypeName name="com.bridge.Shape"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

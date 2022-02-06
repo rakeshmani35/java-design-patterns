@@ -1,0 +1,13 @@
+package com.strategy;
+
+//https://refactoring.guru/design-patterns/strategy/java/example#:~:text=Strategy%20is%20a%20behavioral%20design,delegates%20it%20executing%20the%20behavior.
+/**
+ * Order class. Doesn't know the concrete payment method (strategy) user has
+ * picked. It uses common strategy interface to delegate collecting payment data
+ * to strategy object. It can be used to save order to database.
+ */
+public class Order {
+
+	private int totalCost = 0;
+    private boolean isClosed = false;
+}

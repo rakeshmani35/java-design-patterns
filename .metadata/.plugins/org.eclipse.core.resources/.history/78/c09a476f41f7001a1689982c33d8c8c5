@@ -1,0 +1,11 @@
+package com.strategy;
+
+public class StrategyDP {
+
+	// https://refactoring.guru/design-patterns/strategy/java/example#:~:text=Strategy%20is%20a%20behavioral%20design,delegates%20it%20executing%20the%20behavior.
+	public static void main(String[] args) {
+
+		
+	}
+
+}
